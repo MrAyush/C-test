@@ -64,7 +64,7 @@ void make_thread(void *arg) {
             			printf("TeamB won the toss\n");
             		}
             	} else {
-            		printf("Toss\n");
+            		printf("TIE, and decision on the selector\n");
             	}
             	nclient = 0;
             	i = 0;
